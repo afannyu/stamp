@@ -1,0 +1,13 @@
+/* 设置底部导航栏 */
+.container {
+  position: relative;
+}
+
+/* .cont-bottom {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100rpx;
+  background: #000;
+} */
