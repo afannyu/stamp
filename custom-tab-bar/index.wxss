@@ -1,7 +1,11 @@
 .container {
-  display: flex;
-  padding: 10rpx;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
   height: 100rpx;
+  background: white;
+  display: flex;
 }
 
 .cont-item {
